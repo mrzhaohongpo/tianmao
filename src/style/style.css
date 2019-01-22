@@ -1,0 +1,161 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+textarea,
+input {
+    margin: 0;
+    padding: 0;
+}
+
+address,
+cite,
+dfn,
+em,
+var,
+i {
+    font-style: normal;
+}
+
+body {
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Microsoft Yahei', 'simsun', 'arial', 'tahoma';
+    color: #4a4a4a;
+    background: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+th {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+button,
+input,
+select,
+textarea {
+    font-size: 100%;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+    background: none;
+    font-size: 14px;
+}
+
+u {
+    text-decoration: none;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+.clearfix {
+    clear: both;
+    content: "";
+    display: block;
+    overflow: hidden
+}
+
+.clear {
+    clear: both;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+fr {
+    float: right;
+}
+
+@font-face {
+    font-family: 'iconfont';
+    src: url('../assets/font_size/iconfont.eot');
+    src: url('../assets/font_size/iconfont.eot?#iefix') format('embedded-opentype'), url('../assets/font_size/iconfont.woff2') format('woff2'), url('../assets/font_size/iconfont.woff') format('woff'), url('../assets/font_size/iconfont.ttf') format('truetype'), url('../assets/font_size/iconfont.svg#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 18px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
